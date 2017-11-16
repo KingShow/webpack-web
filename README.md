@@ -11,7 +11,7 @@
 
 ### 项目框架
 ```
-    ---app----
+    ---app----开发目录
     |     |-main.js 入口文件
     |     |-config.json
     |     |-index.tmpl.html
@@ -24,6 +24,11 @@
     |   |-index.html
     |   |-bundle.js
     |   |-style.css
+    |
+    |
+    |
+    |--node_modules 外部依赖
+    |
     |
     |
     |
